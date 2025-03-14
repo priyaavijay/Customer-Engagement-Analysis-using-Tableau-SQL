@@ -1,4 +1,7 @@
 # Customer-Engagement-Analysis-using-Tableau-SQL
+
+![Alt text](https://github.com/priyaavijay/Customer-Engagement-Analysis-using-Tableau-SQL/blob/main/Dashboard.png)
+
 # **Overview**
 
 This project is a guided case study from the Customer Engagement Analysis with SQL & Tableau course by 365 Data Science. It explores customer behavior, engagement patterns, and business insights using SQL and Tableau for data-driven decision-making.
